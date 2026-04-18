@@ -1,2 +1,16 @@
 .qtcreator/
+*.user
+*.user.*
 build/
+build-*/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+.DS_Store
+*.swp
+*.swo
+*~
