@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_GeometryApp_FILE /Users/nikitanikitov/GeometryApp/build/Desktop-Debug/GeometryApp.app/Contents/MacOS/GeometryApp)
+set(__QT_DEPLOY_TARGET_GeometryApp_TYPE EXECUTABLE)
